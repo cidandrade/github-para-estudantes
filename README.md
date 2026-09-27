@@ -32,6 +32,8 @@ Estas tarefas abaixo cabem somente ao administrador do repositório:
 
 - Vá em *Settings* \> *Rulesets* \> *Rulesets* \> *New ruleset* \> *New ruleset* -\> *New branch ruleset*. Dẽ um nome como "Proteção de main". Em *Enforcement Status*, marque como *Active*. Em *Target branches*, clique em *Add Target* e selecione *Include default branch*. Nas *Branch Rules*, marque *Require a pull request before merging* e clique no botão *Create.*
 
+- A partir desta configuração, nem mesmo o administrador do repositório poderá fazer alterações diretamente nele.
+
 - Envie o link do repositório para os colegas
 
 ### Trabalhando
